@@ -1,0 +1,276 @@
+.image1 {
+  padding-left: -21px;
+  width: 500px;
+}
+.back
+{
+  background-color: white;
+  width: 100%;
+  padding: 40px;
+}
+.header 
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body
+{
+    
+    height: 100px;
+    width: 100%;
+}  
+.services-box
+{
+    background-color:rgb(241, 176, 56);   
+    width: 30%;
+    border-radius: 40px;
+} 
+.services 
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.bg-img
+{
+  background-image: url(../Images/bg-img.jpg);
+  min-height: 822px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.img-text
+{
+  width: 20%;
+  background-color:white;
+  padding: 30px;
+  border-radius: 40px;
+  text-align: left;
+  position: absolute;
+  right: 10%;
+  top: 20%;
+}
+
+.submit
+{
+  background-color: darkgrey;
+  border: gray;
+  padding: 15px;
+  border-radius: 28%;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: white;
+}
+.main-content
+{
+  display:flex;
+  justify-content: space-between;
+}
+.text 
+{
+  background-color: rgb(238, 228, 214);
+  font-size: 20px;
+  padding: 10%;
+}
+.page2 
+{
+  background-image: url(../Images/bnbn-min.jpg);
+  /* background-color: red; */
+  min-height: 993px;
+  position: relative;
+}
+
+.develop 
+{
+  background-color: white;
+  border-radius: 20px;
+  /* padding-right: 50%; */
+  width: 20%;
+  padding: 0px 10px;
+  text-align: left;
+  font-size: 18px;
+  /* margin-left: 900px; */
+  /* margin-bottom: 200px; */
+  position: relative;
+  position: absolute;
+  right: 19%;
+  top: 40%;
+}
+.image
+{padding-top: 2cm;
+  padding-bottom: 2cm;
+  padding-left: 300px;
+  height: 700px;
+  width: 600px;
+  border-radius: 20%;
+}
+.main-content 
+{
+  display: flex;
+  justify-content: flex-start;
+}
+form
+{
+  padding-top: 3cm;
+  padding-left: 2cm;
+ font-size: 130%;
+ border: 2px solid white;
+ background-color: white;
+} 
+.background
+{
+  background-image: linear-gradient(90deg,orange 50%, white 50%);
+} 
+input[type=text1],select
+{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solidrgb(167, 125, 125);
+  border-radius: 4px;
+  box-sizing: content-box;
+}
+input[type=text2],select
+{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solidrgb(169, 121, 121);
+  border-radius: 4px;
+  box-sizing: content-box;
+}
+input[type=text3],select{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solidrgb(174, 125, 125);
+  border-radius: 4px;
+  box-sizing: content-box ;
+}
+.body30
+{
+  background-color: black;
+  font-size: medium;
+  color: white;
+}
+.container 
+{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.back2 img 
+{
+  width: 33%;
+}
+body9
+{
+  background-image: linear-gradient(180deg,orange 50%, white 50%);
+}
+.services-box1
+{
+  background-color: rgb(241, 176, 56);
+  width: 100%;
+  text-align: center;
+  border-radius: 40px;
+  margin: 99px -58px 598px -10px;
+} 
+.page2 
+{
+  background-image: url(../Images/bnbn-min.jpg);
+  /* background-color: red; */
+  min-height: 993px;
+  position: relative;
+}
+.grow
+{
+background-color: rgb(241, 176, 56);
+}
+.body3 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  margin: 72px 550px 439px 193px;
+}
+.submit 
+{
+  background-color: darkgrey;
+  border: gray;
+  padding: 15px;
+  border-radius: 28%;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: white;
+}
+.background1
+{
+  background-image: linear-gradient(180deg, white 50%,orange 50%);
+}
+.body4 
+{
+  background-color: orange;
+  background-position: top;
+  border-radius: 20px;
+  font-size: medium;
+  color: black;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  padding: 8%;
+}
+.body5 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -130px 0px 0px 660px;
+}
+.body6 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -305px 0px 0px 1071px;
+}
+.body11 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -679px -94px 0px 378px;
+}
+.body12 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: 38px -9px 96px 463px;
+}
+.body13 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -372px 0px 0px 1034px;
+}
+.body14 
+{
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: 37px 0px 0px 1038px;
+}
+.body7 
+{
+  /* background-color: black; */
+  border-radius: 20px;
+  width: 45%;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  margin: -422px 448px 49px 4px;
+}
